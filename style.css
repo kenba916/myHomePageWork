@@ -592,11 +592,11 @@ a {
 .portfolio-atention {
   font-size: 10px;
   text-align: center;
-  
-  a {
-      font-size: 14px !important;
-      cursor: pointer !important;
-  }
+}
+
+.portfolio-atention_a {
+  font-size: 14px !important;
+  cursor: pointer !important;
 }
 
 /* skill
