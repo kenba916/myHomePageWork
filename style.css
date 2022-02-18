@@ -590,14 +590,8 @@ a {
 
 
 .portfolio-atention {
-  margin-top: 5px;
+  margin-top: 15px;
   font-size: 10px;
-  text-align: center;
-}
-
-.portfolio-atention_a {
-  font-size: 14px !important;
-  cursor: pointer !important;
 }
 
 /* skill
